@@ -2,6 +2,8 @@
 
 A self-contained Docker Application that provides a set of Jupyter Notebooks and associated utilities to work with Java and Java AI Libraries
 
+See video at https://www.youtube.com/watch?v=YAWa_pl5eFQ&list=PLX8CzqL3ArzVV1xRJkRbcM2tOgVwytJAi for more info as well.
+
 ## Overview
 
 This repository provides a Docker-based environment with Jupyter notebooks demonstrating how to create your own Data Science/ML/GenAI learning platform
